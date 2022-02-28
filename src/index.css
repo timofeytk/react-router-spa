@@ -3505,7 +3505,10 @@ textarea.form-control-lg {
   opacity: 0;
 }
 
-.collapse:not(.show) {
+#show {
+  display: block;
+}
+#close{
   display: none;
 }
 
